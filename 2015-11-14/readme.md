@@ -33,6 +33,6 @@ Al fine di rendere gli incontri utili per tutti, abbiamo anche provveduto ad ann
 | **Marco Gava**       | [Github](https://github.com/macmotp), [Linkedin](https://it.linkedin.com/in/gavamarco), [Facebook](https://www.facebook.com/macmotp), [Twitter](https://twitter.com/macmotp) |
 | **Michele Damo**     | [Github](https://github.com/michelew3design), [Linkedin](https://www.linkedin.com/in/michele-damo-277146a1), [Facebook](https://www.facebook.com/michi.damo) |
 | **Flavio Pellizzer** | [Github](https://github.com/flavioski), [Linkedin](https://it.linkedin.com/in/flavio-pellizzer-63b9125), [Facebook](https://www.facebook.com/yBNJ8nofexbm9f5zeAQ), [Twitter](https://twitter.com/FlaPellizzer) |
-| **Nicola B.**        |                  |
+| **Nicola B.**        | [Github](https://github.com/nicolabosco87), [Twitter](https://twitter.com/NicolaBosco3), [Facebook](https://www.facebook.com/boschin87)                 |
 | **Angelo Maragna**   | [Github](https://github.com/angelomaragna), [Facebook](https://www.facebook.com/ngitaly), [Twitter](https://twitter.com/2ndAngyel) |
 | **Karoly S.**        |                  |
